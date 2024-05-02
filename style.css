@@ -10,7 +10,7 @@
 /* hero background image */
 .bgimage {
     height: 100vh;
-    background-image: url('your_image.jpg'); /* Add the path to your background image */
+    background-image: url('italian-flag.jpg'); /* Add the path to your background image */
     background-size: cover;
     background-position: center;
     position: relative;

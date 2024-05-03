@@ -2,7 +2,6 @@
 .section {
     margin-top: 4rem;
     padding-top: 4rem;
-    border: 1px solid #ddd !important; /* Add a gray border */
 }
 
 .section:last-of-type {
